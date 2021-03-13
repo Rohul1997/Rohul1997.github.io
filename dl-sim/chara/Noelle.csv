@@ -1,7 +1,3 @@
--,60,_
-4142,Noelle,110340_01_r04,wind,wand,3004,Freyja,210084_01,Typhoon&#x27;s Rule,307095_01_50301,A Dog&#x27;s Day,400409_02,Gentle Winds,400103_02,Sisters&#x27; Day Out,400243_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Bow,,Dagger2,,Tobias,110352_01_r05,Mikoto,110010_01_r05,Summer Cleo,100004_04_r05,buff all team,,team:131.18042%,x:3848,fs:293
--,60,affliction
-4142,Noelle,110340_01_r04,wind,wand,3004,Freyja,210084_01,Typhoon&#x27;s Rule,307095_01_50301,A Dog&#x27;s Day,400409_02,Gentle Winds,400103_02,Sisters&#x27; Day Out,400243_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Bow,,Dagger2,,Tobias,110352_01_r05,Mikoto,110010_01_r05,Summer Cleo,100004_04_r05,buff all team,,poison:100.0%;team:131.18042%,x:3848,fs:293
 -,180,_
 9426,Noelle,110340_01_r04,wind,wand,4595,Ariel,210116_01,Camelot,307137_01_60301,A Dog&#x27;s Day,400409_02,Gentle Winds,400103_02,Sisters&#x27; Day Out,400243_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Bow,,Joker,110377_01_r05,Tobias,110352_01_r05,Mikoto,110010_01_r05,Summer Cleo,100004_04_r05,100 stun res & buff all team,,team:145.20827%,x:8695,fs:729
 -,mono,_
@@ -10,3 +6,7 @@
 40338,Noelle,110340_01_r04,wind,wand,4595,Gala Reborn Zephyr,210143_01,Camelot,307137_01_60301,A Dog&#x27;s Day,400409_02,A Man Unchanging,400459_02,Candy Couriers,400135_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Blade,,Joker,110377_01_r05,Mona,110379_01_r05,Weapon,,Mikoto,110010_01_r05,buff all team,,poison:100.0%;team:56.78600%,x:12917,fs:1317,s2:6094,dx:12173,ds_final:3641,ds:4193
 -,mono,affliction
 40338,Noelle,110340_01_r04,wind,wand,4595,Gala Reborn Zephyr,210143_01,Camelot,307137_01_60301,A Dog&#x27;s Day,400409_02,A Man Unchanging,400459_02,Candy Couriers,400135_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Blade,,Joker,110377_01_r05,Mona,110379_01_r05,Weapon,,Mikoto,110010_01_r05,buff all team,,poison:100.0%;team:56.78600%,x:12917,fs:1317,s2:6094,dx:12173,ds_final:3641,ds:4193
+-,180,noaffliction
+9426,Noelle,110340_01_r04,wind,wand,4595,Ariel,210116_01,Camelot,307137_01_60301,A Dog&#x27;s Day,400409_02,Gentle Winds,400103_02,Sisters&#x27; Day Out,400243_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Bow,,Joker,110377_01_r05,Tobias,110352_01_r05,Mikoto,110010_01_r05,Summer Cleo,100004_04_r05,999 all affliction res & buff all team,,team:145.20827%,x:8695,fs:729
+-,mono,noaffliction
+9426,Noelle,110340_01_r04,wind,wand,4595,Ariel,210116_01,Camelot,307137_01_60301,A Dog&#x27;s Day,400409_02,Gentle Winds,400103_02,Sisters&#x27; Day Out,400243_02,From Whence He Comes,400390_02,Bellathorna,400009_02,,,,,Bow,,Joker,110377_01_r05,Tobias,110352_01_r05,Mikoto,110010_01_r05,Summer Cleo,100004_04_r05,999 all affliction res & buff all team,,team:145.20827%,x:8695,fs:729

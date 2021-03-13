@@ -1,7 +1,3 @@
--,60,_
-60817,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp100 & hit10 & hit15,,team:18.79856%,x:6191,s2:2119,s3_phase2:1312,s4:2030,dx:43683,ds:5480
--,60,affliction
-74231,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp100 & hit10 & hit15,,paralysis:100.0%;team:20.43447%,x:6244,s2:938,s3_phase2:1437,s4:2324,dx:57310,ds:5975
 -,180,_
 56995,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp100 & hit10 & hit15,,team:17.75651%,x:8191,s2:1764,s3_phase2:1564,s4:2441,dx:39029,ds:4003
 -,mono,_
@@ -10,3 +6,7 @@
 60773,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp100 & hit10 & hit15,,paralysis:100.0%;team:17.88027%,x:9413,s2:1911,s3_phase2:2077,s4:2897,dx:40355,ds:4117
 -,mono,affliction
 60773,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp100 & hit10 & hit15,,paralysis:100.0%;team:17.88027%,x:9413,s2:1911,s3_phase2:2077,s4:2897,dx:40355,ds:4117
+-,180,noaffliction
+56995,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hp100 & hit10 & hit15,,team:17.75651%,x:8191,s2:1764,s3_phase2:1564,s4:2441,dx:39029,ds:4003
+-,mono,noaffliction
+56995,Halloween Althemia,110047_02_r04,light,staff,4614,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hp100 & hit10 & hit15,,team:17.75651%,x:8191,s2:1764,s3_phase2:1564,s4:2441,dx:39029,ds:4003

@@ -1,7 +1,3 @@
--,60,_
-43918,Pipple,110300_01_r04,water,wand,4655,Dragonyule Jeanne,210076_01,Omizununo,307136_01_60201,Brothers in Arms,400402_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Dueling Dancers,400050_02,Sisters of the Anvil,400049_02,,,,,Dagger,,Eugene,110363_01_r05,Dagger2,,Weapon,,Mikoto,110010_01_r05,100 freeze res & hit15 & hp70,,doublebuff:every 30.02s;energy:6,x:18608,dx:25310
--,60,affliction
-77189,Pipple,110300_01_r04,water,wand,4660,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,Memory of a Friend,400429_02,Moonlight Party,400448_02,The Prince of Dragonyule,400115_02,From Whence He Comes,400390_02,His Clever Brother,400169_02,,,,,Renee,110265_01_r04,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Summer Luca,100006_03_r04,hit15 & hp70,,frostbite:100.0%;energy:6,x:23281,dx:39113,ds_final:3456,ds:11338
 -,180,_
 71706,Pipple,110300_01_r04,water,wand,4657,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,An Ancient Oath,400084_02,Candy Couriers,400135_02,Memory of a Friend,400429_02,Dueling Dancers,400050_02,Entwined Flames,400140_02,,,,,Blade,,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Gala Mym,100010_04_r05,hit15,,energy:20,x:27125,s4:3574,dx:24944,ds_final:5544,ds:10516
 -,mono,_
@@ -10,3 +6,7 @@
 81148,Pipple,110300_01_r04,water,wand,4657,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,His Clever Brother,400169_02,,,,,Blade,,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Gala Mym,100010_04_r05,hit15,,frostbite:100.0%;energy:20,x:32550,s4:3064,dx:30526,ds_final:4846,ds:10160
 -,mono,affliction
 81148,Pipple,110300_01_r04,water,wand,4657,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,His Clever Brother,400169_02,,,,,Blade,,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Gala Mym,100010_04_r05,hit15,,frostbite:100.0%;energy:20,x:32550,s4:3064,dx:30526,ds_final:4846,ds:10160
+-,180,noaffliction
+71706,Pipple,110300_01_r04,water,wand,4657,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,An Ancient Oath,400084_02,Candy Couriers,400135_02,Memory of a Friend,400429_02,Dueling Dancers,400050_02,Entwined Flames,400140_02,,,,,Blade,,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hit15,,energy:20,x:27125,s4:3574,dx:24944,ds_final:5544,ds:10516
+-,mono,noaffliction
+71706,Pipple,110300_01_r04,water,wand,4657,Gala Reborn Poseidon,210134_01,Omizununo,307136_01_60201,An Ancient Oath,400084_02,Candy Couriers,400135_02,Memory of a Friend,400429_02,Dueling Dancers,400050_02,Entwined Flames,400140_02,,,,,Blade,,Summer Celliera,110255_02_r05,Tiki,110360_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hit15,,energy:20,x:27125,s4:3574,dx:24944,ds_final:5544,ds:10516

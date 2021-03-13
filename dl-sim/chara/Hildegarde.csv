@@ -1,7 +1,3 @@
--,60,_
-61882,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp60 & hit10 & hit15,,team:6.63304%,x:5241,s3_phase2:1103,s4:1724,dx:48765,ds:5046
--,60,affliction
-62952,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp60 & hit10 & hit15,,paralysis:100.0%;team:17.03225%,x:6655,s3_phase2:1390,s4:2209,dx:47018,ds:5678
 -,180,_
 52511,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp60 & hit10 & hit15,,team:14.81215%,x:7983,s3_phase2:1412,s4:2129,dx:37124,ds:3860
 -,mono,_
@@ -10,3 +6,7 @@
 56245,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp60 & hit10 & hit15,,paralysis:100.0%;team:14.81215%,x:9580,s3_phase2:1695,s4:2555,dx:38418,ds:3995
 -,mono,affliction
 56245,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,Spirit of the Season,400393_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,hp60 & hit10 & hit15,,paralysis:100.0%;team:14.81215%,x:9580,s3_phase2:1695,s4:2555,dx:38418,ds:3995
+-,180,noaffliction
+52511,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hp60 & hit10 & hit15,,team:14.81215%,x:7983,s3_phase2:1412,s4:2129,dx:37124,ds:3860
+-,mono,noaffliction
+52511,Hildegarde,110043_01_r05,light,staff,4652,Daikokuten,210110_01,Del Frith,308131_01_60401,An Ancient Oath,400084_02,Memory of a Friend,400429_02,The Bridal Dragon,400096_02,Dueling Dancers,400050_02,Such High Spirits!,400440_02,,,,,Raemond,110035_01_r03,Dagger2,,Peony,110361_01_r05,Weapon,,Gala Mym,100010_04_r05,999 all affliction res & hp60 & hit10 & hit15,,team:14.81215%,x:7983,s3_phase2:1412,s4:2129,dx:37124,ds:3860
